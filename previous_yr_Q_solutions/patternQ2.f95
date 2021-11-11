@@ -1,6 +1,10 @@
 program q1
     implicit none
     integer :: i,j,m,n=5
+    
+    !print *, "Enter number of rows"
+    !read *, n
+    
     do i=1,n+1
         do j=1,n+1
             m = n-(i-j)
