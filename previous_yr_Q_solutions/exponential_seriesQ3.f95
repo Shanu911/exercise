@@ -1,4 +1,4 @@
-program q2
+program q3
     implicit none
     integer :: i,n
     real :: term=1.0, s = 1.0, x
