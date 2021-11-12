@@ -44,35 +44,3 @@ do
     end do
 end do
 end program
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
